@@ -1,2 +1,4 @@
 # Jumpy-Game
-Python JumpyGame
+# Python JumpyGame
+# PYAGME
+pip install pygame
